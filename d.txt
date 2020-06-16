@@ -1,0 +1,2 @@
+i am working on d.txt
+this is how stash works
